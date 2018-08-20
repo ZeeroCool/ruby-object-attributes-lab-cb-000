@@ -13,11 +13,11 @@ class Dog
   end
 
   # def breed
-  # 
+  #
   # end
-  # 
+  #
   # def breed=
-  # 
+  #
   # end
 
 
